@@ -12,7 +12,8 @@
         "disable_heat": "Isıtmayı devre dışı bırak",
         "disable_off": "Kapalı mode devre dışı bırak",
         "disable_menu": "Menüyü devre dışı bırak",
-        "disable_battery_warning": "Pil uyarısını devre dışı bırak"
+        "disable_battery_warning": "Pil uyarısını devre dışı bırak",
+        "disable_buttons": "Artı/eksi düğmelerini devre dışı bırakın"
       }
     }
   },
