@@ -7,7 +7,8 @@
     "card": {
       "climate": {
         "disable_window": "Pencereyi devre dışı bırak",
-        "disable_summer": "Yaz modunu devre dışı bırak"
+        "disable_summer": "Yaz modunu devre dışı bırak",
+        "disable_eco": "Eko modu devre dışı bırak"
       }
     }
   },
