@@ -14,7 +14,8 @@
         "disable_menu": "Menüyü devre dışı bırak",
         "disable_battery_warning": "Pil uyarısını devre dışı bırak",
         "disable_buttons": "Artı/eksi düğmelerini devre dışı bırakın",
-        "eco_temperature": "Eko sıcaklık"
+        "eco_temperature": "Eko sıcaklık",
+        "set_current_as_main": "Hedef sıcaklığı mevcut sıcaklık noktalarıyla değiştirin."
       }
     }
   },
