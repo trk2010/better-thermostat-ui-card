@@ -1,7 +1,14 @@
 {
   "common": {
-      "version": "versiyon",
-      "current": "şimdiki"
+    "version": "versiyon",
+    "current": "şimdiki"
+  },
+  "editor": {
+    "card": {
+      "climate": {
+        "disable_window": "Pencereyi devre dışı bırak"
+      }
+    }
   },
   "extra_states": {
     "window_open": "Pencere açık",
