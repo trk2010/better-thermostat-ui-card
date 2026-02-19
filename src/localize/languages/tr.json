@@ -1,7 +1,8 @@
 {
   "common": {
     "version": "versiyon",
-    "current": "şimdiki"
+    "current": "şimdiki",
+    "currrent": "Akım"
   },
   "editor": {
     "card": {
