@@ -11,7 +11,8 @@
         "disable_eco": "Eko modu devre dışı bırak",
         "disable_heat": "Isıtmayı devre dışı bırak",
         "disable_off": "Kapalı mode devre dışı bırak",
-        "disable_menu": "Menüyü devre dışı bırak"
+        "disable_menu": "Menüyü devre dışı bırak",
+        "disable_battery_warning": "Pil uyarısını devre dışı bırak"
       }
     }
   },
